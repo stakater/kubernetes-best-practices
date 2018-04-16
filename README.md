@@ -1,5 +1,5 @@
 # kubernetes-best-practices
-A curated list of best practices learned the hard way by operating kubernetes cluster at large scale
+A curated list of best practices learned the hard way by operating multiple kubernetes cluster at different customers at large scale
 
 ### Max Number of Pods per Node
 
